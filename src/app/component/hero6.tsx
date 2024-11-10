@@ -7,7 +7,7 @@ import goo from "../assets/Google.png"
 export default function Hero6() {
     return (
       <>
-        <div className="w-[2035px] h-[538px] p-[140px_220px_140px_220px] bg-white flex flex-col gap-[100px] items-center">
+        <div className="w-[1920px] h-[538px] p-[140px_220px_140px_220px] bg-white flex flex-col gap-[100px] items-center">
             <h1 className="w-[1482px] hh-[87px] text-[72px] font-bold text-center font-inter">
                 Our sponsors
             </h1>

@@ -1,7 +1,7 @@
 export default function Hero5() {
     return (
       <>
-        <div className="w-[2035px] h-[574px] p-[140px_220px_140px_220px] bg-[#043873] flex justify-center">
+        <div className="w-[1920px] h-[574px] p-[140px_220px_140px_220px] bg-[#043873] flex justify-center">
             <div className="w-[1481px] h-[294px] text-white flex flex-col items-center gap-[60px]">
                 <div className="w-[1064px] h-[171px] flex flex-col gap-6">
                     <h1 className="w-[1064px] h-[87px] text-[72px] font-bold">

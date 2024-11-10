@@ -4,7 +4,7 @@ import logo from "../assets/Logo.png"
 export default function Hero7() {
     return (
       <>
-        <div className="w-[2035px] h-[461px] p-[140px_220px_32px_220px] bg-[#043873] flex items-center">
+        <div className="w-[1920px] h-[461px] p-[140px_220px_32px_220px] bg-[#043873] flex items-center">
             <div className="w-[1480px] h-[289px] flex flex-col gap-[44px]">
                 <div className="w-[1480px] h-[169px]  text-white  font-inter flex gap-[100px]">
                 {/* 1st */}

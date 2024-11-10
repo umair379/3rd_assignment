@@ -1,7 +1,7 @@
 export default function Hero() {
     return (
       <>
-        <div className="w-[2035px] h-[829px] p-[140px_220px_140px_220px] bg-[#043873] flex items-center">
+        <div className="w-[1920px] h-[829px] p-[140px_220px_140px_220px] bg-[#043873] flex items-center">
             <div className="w-[656px] h-[361px] flex flex-col gap-6 ">
                 <div className="w-[656px] h-[238px] flex flex-col gap-8">
                     <h2 className="w-[656px] h-[154px] text-white text-[64px] font-bold">

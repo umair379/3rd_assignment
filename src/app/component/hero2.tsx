@@ -4,7 +4,7 @@ import img from "../assets/image.png";
 export default function Hero2() {
   return (
     <>
-      <div className="w-[2035px] h-[1588px] p-[140px_220px_140px_220px] bg-white flex flex-col items-center gap-[100px]">
+      <div className="w-[1920px] h-[1588px] p-[140px_220px_140px_220px] bg-white flex flex-col items-center gap-[100px]">
         <div className="w-[1480px] h-[547px] flex items-center gap-[60px]">
           <div className="w-[672px] h-[411px] flex flex-col gap-[60px] ">
             <div className="w-[672px] h-[288px] flex flex-col gap-8">

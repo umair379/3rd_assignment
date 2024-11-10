@@ -4,7 +4,7 @@ import logo from "../assets/Logo.png"
 export default function Navbar() {
     return (
       <>
-        <div className="w-[2035px] h-[92px] p-[16px_220px_16px_220px] bg-[#043873] flex justify-between items-center">
+        <div className="w-[1920px] h-[92px] p-[16px_220px_16px_220px] bg-[#043873] flex justify-between items-center">
 
             {/* logo */}
             <div className="w-[191px] h-[34px]">
